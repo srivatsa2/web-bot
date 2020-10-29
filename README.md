@@ -30,26 +30,26 @@
    
  *If you select first option then again it will ask to enter expression as 'calculate expression'.
   
-   Then it will gives a evaluated expression.
+     Then it will gives a evaluated expression.
      
-   After giving the result of an expression the bot send a message like: If you want to calculate another expression enter the "expression calculate 1*2" or
-   enter back
+     After giving the result of an expression the bot send a message like: If you want to calculate another expression enter the "expression calculate 1*2" or
+     enter back
          
          
  *If you select second option then again it will ask to enter city name : Like 'city cityname'.
   
      "Then it will gives a report on weather forecast."
      
-      'After giving the result of an weather report the bot send a message like: If you want another weather report enter the "city cityname" or
-         enter back'
+     'After giving the result of an weather report the bot send a message like: If you want another weather report enter the "city cityname" or
+      enter back'
   
  
   *If you select third option then again it will ask to enter country name : Like 'country countryname'.
   
      "Then it will gives a report on covid-19 report."
      
-      'After giving the result of covid-19 updates then bot send a message like: If you want another corona updates enter the "country countryname" or
-         enter back' 
+     'After giving the result of covid-19 updates then bot send a message like: If you want another corona updates enter the "country countryname" or
+      enter back' 
      
    
    
