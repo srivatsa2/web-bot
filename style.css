@@ -1,0 +1,92 @@
+.user{
+  width: 30%;
+  font-size:18px;
+  font-weight:500;
+  border: 2px solid #dedede;
+  background-color: black;
+  opacity: 0.7;
+  color:white;
+  border-radius:12px;
+  padding:20px;
+  margin:10px 0;
+  margin-left: 50%;
+
+}
+.bot{
+  
+    font-size: 18px;
+    width: 30%;
+    font-weight: 500;
+    border: 2px solid #dedede;
+    background-color: black;
+    color: rgb(252, 248, 248);
+    opacity: 0.9;
+    border-radius: 12px;
+    padding: 20px;
+    margin: 10px 0 0 7%;
+    
+  
+}
+#inp{  
+    width: 67%;
+    display: inline-block;
+    margin: 2% 0 0 7%;
+    font-size: 190%;
+    border-radius: 12px;
+    padding: 2%;
+    margin-bottom: 30px;
+}
+
+.button{
+    color:white;
+    background-color: black;
+    padding-top:27px;
+    padding-left:25px;
+    padding-right:25px;
+    padding-bottom:15px;
+    border-radius: 20px;
+    border-block-end-style: inherit;
+}
+
+.heading{
+  font-family: 'Staatliches', cursive;
+  font-size: 50px;
+  background-image: url('https://anahata.mikado-themes.com/wp-content/uploads/2016/12/footer-background-img.jpg');
+  padding-top: 33px;
+  color: white;
+  text-align:center;
+  padding-bottom: 30px;
+}
+
+.cursor{
+  height:0.7cm;
+  width: 0.7cm;
+  margin-bottom:8px;
+}
+
+.img{
+    width: 50px;
+    padding-bottom: 5px;
+    margin-bottom: 19px;
+    background-color: black;
+    border-radius: 50px;
+    margin-left: -131px;
+}
+
+ 
+.bot_image{
+  margin-left: 7%;
+  width: 50px;
+  height: 50px;
+  border-radius: 50px;
+}
+
+.user_image{
+  width: 50px;
+  height: 50px;
+  border-radius: 50px;
+  margin-left:75%;
+
+}
+
+
