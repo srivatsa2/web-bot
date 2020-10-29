@@ -1,0 +1,9 @@
+{
+
+"menu":"1.Calculate an expression<br>2.Know weather details of a city<br>3.Know Corona updates of a country<br>4.End this chat<br>Enter a number from [1-4]",
+"1":"Enter your expression as 'calculate 1+2'",
+"2":"Enter your cityname as 'city yourcityname'",
+"3":"Enter your countryname as 'country yourcityname'",
+"4":"Thank u will meet again"
+
+}
