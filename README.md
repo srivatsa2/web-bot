@@ -30,7 +30,7 @@
    
  *If you select first option then again it will ask to enter expression as 'calculate expression'.
   
-     Then it will gives a evaluated expression.
+     Then it will gives a evaluated expression
      
      After giving the result of an expression the bot send a message like: If you want to calculate another expression enter the "expression calculate 1*2" or
      enter back
