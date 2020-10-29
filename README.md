@@ -32,7 +32,7 @@
   
     THEN IT WILL GIVES A EVALUATED EXPRESSION
      
-   *AFTER GIVING THE RESULT OF AN EXPRESSION THE BOT SEND A MESSAGE LIKE: IF YOU WANT TO CALCULATE ANOTHER EXPRESSION ENTER THE "expression calculate 1*2" OR
+   * AFTER GIVING THE RESULT OF AN EXPRESSION THE BOT SEND A MESSAGE LIKE: IF YOU WANT TO CALCULATE ANOTHER EXPRESSION ENTER THE "expression calculate 1*2" OR
      ENTER  BACK.
          
          
@@ -44,7 +44,7 @@
      ENTER BACK
   
  
-  If you select third option then again it will ask to enter country name : Like 'country countryname'.
+  IF YOU SELECT THIRD OPTION THEN AGAIN IT WILL ASK TO ENTER COUNTRY NAME : Like 'country countryname'.
   
    * THEN IT WILL GIVES A REPORT ON COVID-19 REPORT.
      
