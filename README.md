@@ -54,7 +54,7 @@
    
    
 
-   *Submiting git-hub link(WEBSITE): 
+   *Submiting git-hub link(WEBSITE):https://github.com/srivatsa2/ML2021-WEEK2
       
 
    *YouTube link (DEMO VIDEO on WEBSITE): https://youtu.be/MS3jkQDWbGQ
@@ -63,6 +63,8 @@
    *SUBMITTING REPL.IT LINK(BOT):https://repl.it/@SrivatsaSrighak/Webbot-2#index.html
    
    *SUBMITTING REPL.IT LINK(GOES TO WEBPAGE):https://webbot-2.srivatsasrighak.repl.co/
+   
+   *Youtube video link(BOT DEMO):
    
    
   
