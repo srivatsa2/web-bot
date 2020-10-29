@@ -1,4 +1,4 @@
-# web# ML2021-WEEK2
+# webbot # ML2021-WEEK2
 
 
 *We have done this website in a team of three and the collaborators are :
@@ -51,20 +51,28 @@
      'After giving the result of covid-19 updates then bot send a message like: If you want another corona updates enter the "country countryname" or
       enter back' 
      
-   *Firstly we have done webpage for my bot as below: 
+   
+   *YouTube video link(WEBBOT DEMO video) : https://youtu.be/QTLJ_gT1v2M
+   
+   
+   *REPL.IT CODE LINK : https://repl.it/@SrivatsaSrighak/Webbot-2#index.html
+   
+   
+   * REPL.IT WEBBOT LINK : https://webbot-2.srivatsasrighak.repl.co/
+   
+   WE CREATED A WEBSITE BY INCLUDING SOME FUNCTIONALIES TO THE WEBBOT
 
-   *Submiting git-hub link(WEBSITE):https://github.com/srivatsa2/ML2021-WEEK2
+    *git-hub link(WEBSITE) : https://github.com/srivatsa2/ML2021-WEEK2
       
 
-   *YouTube link (DEMO VIDEO on WEBSITE): https://youtu.be/MS3jkQDWbGQ
+    *YouTube link (DEMO VIDEO on WEBSITE) : https://youtu.be/MS3jkQDWbGQ
    
-   *After getting time we done web BOT as below:
    
-   *SUBMITTING REPL.IT LINK(BOT):https://repl.it/@SrivatsaSrighak/Webbot-2#index.html
+  
    
-   *SUBMITTING REPL.IT LINK(GOES TO WEBPAGE):https://webbot-2.srivatsasrighak.repl.co/
    
-   *Youtube video link(BOT DEMO):https://youtu.be/QTLJ_gT1v2M
+   
+   
    
    
   
