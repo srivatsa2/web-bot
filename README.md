@@ -25,10 +25,10 @@
            
            4.END this chat.
            
- *YOU HAVE TO SELECT A NUMBER FROM 1-4 ONLY.
+  YOU HAVE TO SELECT A NUMBER FROM 1-4 ONLY.
   
    
- *IF YOU SELECT FIRST OPTION THEN AGAIN IT WILL ASK TO ENTER EXPRESSION AS 'calculate expression'.
+  IF YOU SELECT FIRST OPTION THEN AGAIN IT WILL ASK TO ENTER EXPRESSION AS 'calculate expression'.
   
     THEN IT WILL GIVES A EVALUATED EXPRESSION
      
@@ -36,9 +36,9 @@
      ENTER  BACK.
          
          
- *If you select second option then again it will ask to enter city name : Like 'city cityname'.
+  IF YOU SELECT SECOND OPTION THEN AGAIN IT WILL ASK TO ENTER CITY NAME : LIKE 'city cityname'.
   
-   * Then it will gives a report on weather forecast.
+     THEN IT WILL GIVES A REPORT ON WEATHER FORECAST.
      
    * After giving the result of an weather report the bot send a message like: If you want another weather report enter the "city cityname" or
      enter back
