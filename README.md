@@ -38,13 +38,13 @@
          
   IF YOU SELECT SECOND OPTION THEN AGAIN IT WILL ASK TO ENTER CITY NAME : LIKE 'city cityname'.
   
-     THEN IT WILL GIVES A REPORT ON WEATHER FORECAST.
+  THEN IT WILL GIVES A REPORT ON WEATHER FORECAST.
      
-   * After giving the result of an weather report the bot send a message like: If you want another weather report enter the "city cityname" or
-     enter back
+   * AFTER GIVING THE RESULT OF AN WEATHER REPORT THE BOT SEND A MESSAGE LIKE: IF YOU WANT ANOTHER WEATHER REPORT ENTER THE "city cityname" or
+     ENTER BACK
   
  
-  *If you select third option then again it will ask to enter country name : Like 'country countryname'.
+  If you select third option then again it will ask to enter country name : Like 'country countryname'.
   
    * Then it will gives a report on covid-19 report.
      
