@@ -51,14 +51,14 @@
      'After giving the result of covid-19 updates then bot send a message like: If you want another corona updates enter the "country countryname" or
       enter back' 
      
-   
-   
+   *Firstly we have done webpage for my bot as below: 
 
    *Submiting git-hub link(WEBSITE):https://github.com/srivatsa2/ML2021-WEEK2
       
 
    *YouTube link (DEMO VIDEO on WEBSITE): https://youtu.be/MS3jkQDWbGQ
    
+   *After getting time we done web BOT as below:
    
    *SUBMITTING REPL.IT LINK(BOT):https://repl.it/@SrivatsaSrighak/Webbot-2#index.html
    
