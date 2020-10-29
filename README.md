@@ -1,7 +1,7 @@
 # webbot # ML2021-WEEK2
 
 
-*We have done this website in a team of three and the collaborators are :
+ WE HAVE DONE THIS WEBBOT IN A TEAM OF THREE AND THE COLLABORATORS ARE :
 
     1.18pa1a05g5
    
