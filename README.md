@@ -52,10 +52,10 @@
       enter back' 
      
    
-   *YouTube video link(WEBBOT DEMO video) : https://youtu.be/QTLJ_gT1v2M
+   * YouTube video link(WEBBOT DEMO video) : https://youtu.be/QTLJ_gT1v2M
    
    
-   *REPL.IT CODE LINK : https://repl.it/@SrivatsaSrighak/Webbot-2#index.html
+   * REPL.IT CODE LINK : https://repl.it/@SrivatsaSrighak/Webbot-2#index.html
    
    
    * REPL.IT WEBBOT LINK : https://webbot-2.srivatsasrighak.repl.co/
