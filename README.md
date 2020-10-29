@@ -15,7 +15,7 @@
  
  DESCRIPTION:
  
- *Firstly,our bot ask you to say hi and after clicking that it gives an welcome message and options to choose:
+ FIRSTLY,OUR BOT ASKS YOU TO SAY HI AND AFTER CLICKING THAT IT GIVES AN WELCOME MESSAGE AND OPTIONS TO CHOOSE:
    
            1.Evaluates an expression.
            
@@ -25,15 +25,15 @@
            
            4.END this chat.
            
- *You have to select a number from 1-4 only.
+ *YOU HAVE TO SELECT A NUMBER FROM 1-4 ONLY.
   
    
- *If you select first option then again it will ask to enter expression as 'calculate expression'.
+ *IF YOU SELECT FIRST OPTION THEN AGAIN IT WILL ASK TO ENTER EXPRESSION AS 'calculate expression'.
   
-   * Then it will gives a evaluated expression
+    THEN IT WILL GIVES A EVALUATED EXPRESSION
      
-   * After giving the result of an expression the bot send a message like: If you want to calculate another expression enter the "expression calculate 1*2" or
-     enter back
+    AFTER GIVING THE RESULT OF AN EXPRESSION THE BOT SEND A MESSAGE LIKE: IF YOU WANT TO CALCULATE ANOTHER EXPRESSION ENTER THE "expression calculate 1*2" OR
+     ENTER  BACK.
          
          
  *If you select second option then again it will ask to enter city name : Like 'city cityname'.
