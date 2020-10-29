@@ -32,7 +32,7 @@
   
     THEN IT WILL GIVES A EVALUATED EXPRESSION
      
-    AFTER GIVING THE RESULT OF AN EXPRESSION THE BOT SEND A MESSAGE LIKE: IF YOU WANT TO CALCULATE ANOTHER EXPRESSION ENTER THE "expression calculate 1*2" OR
+   *AFTER GIVING THE RESULT OF AN EXPRESSION THE BOT SEND A MESSAGE LIKE: IF YOU WANT TO CALCULATE ANOTHER EXPRESSION ENTER THE "expression calculate 1*2" OR
      ENTER  BACK.
          
          
@@ -40,16 +40,16 @@
   
   THEN IT WILL GIVES A REPORT ON WEATHER FORECAST.
      
-   * AFTER GIVING THE RESULT OF AN WEATHER REPORT THE BOT SEND A MESSAGE LIKE: IF YOU WANT ANOTHER WEATHER REPORT ENTER THE "city cityname" or
+   * AFTER GIVING THE RESULT OF AN WEATHER REPORT THE BOT SEND A MESSAGE LIKE: IF YOU WANT ANOTHER WEATHER REPORT ENTER THE "city cityname" OR
      ENTER BACK
   
  
   If you select third option then again it will ask to enter country name : Like 'country countryname'.
   
-   * Then it will gives a report on covid-19 report.
+   * THEN IT WILL GIVES A REPORT ON COVID-19 REPORT.
      
-   * After giving the result of covid-19 updates then bot send a message like: If you want another corona updates enter the "country countryname" or
-     enter back
+   * AFTER GIVING THE RESULT OF COVID-19 UPDATES THEN BOT SEND A MESSAGE LIKE: IF YOU WANT ANOTHER CORONA UPDATE ENTER THE "country countryname" OR
+     ENTER BACCK
      
    
    * YOUTUBE VIDEO LINK(WEBBOT DEMO video) : https://youtu.be/QTLJ_gT1v2M
