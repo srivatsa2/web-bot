@@ -62,10 +62,10 @@
    
    WE CREATED A WEBSITE BY INCLUDING SOME FUNCTIONALIES TO THE WEBBOT
 
-    *Git-hub link(WEBSITE) : https://github.com/srivatsa2/ML2021-WEEK2
+   * Git-hub link(WEBSITE) : https://github.com/srivatsa2/ML2021-WEEK2
       
 
-    *YouTube link (DEMO VIDEO on WEBSITE) : https://youtu.be/MS3jkQDWbGQ
+   * YouTube link (DEMO VIDEO on WEBSITE) : https://youtu.be/MS3jkQDWbGQ
    
    
   
