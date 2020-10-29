@@ -52,7 +52,7 @@
       enter back' 
      
    
-   * YouTube video link(WEBBOT DEMO video) : https://youtu.be/QTLJ_gT1v2M
+   * YOUTUBE VIDEO LINK(WEBBOT DEMO video) : https://youtu.be/QTLJ_gT1v2M
    
    
    * REPL.IT CODE LINK : https://repl.it/@SrivatsaSrighak/Webbot-2#index.html
@@ -62,7 +62,7 @@
    
    WE CREATED A WEBSITE BY INCLUDING SOME FUNCTIONALIES TO THE WEBBOT
 
-    *git-hub link(WEBSITE) : https://github.com/srivatsa2/ML2021-WEEK2
+    *Git-hub link(WEBSITE) : https://github.com/srivatsa2/ML2021-WEEK2
       
 
     *YouTube link (DEMO VIDEO on WEBSITE) : https://youtu.be/MS3jkQDWbGQ
